@@ -1,4 +1,4 @@
-# -URL-Shortener-Redirection-Analysis-Tool
+# URL-Shortener-Redirection-Analysis-Tool
 A custom-built URL shortening service implemented in Java (Spring Boot), created to explore how shortened URLs work and how they can be exploited in phishing, redirection attacks, and evasion techniques.
 
 This project was developed as part of a cybersecurity learning initiative to:
@@ -41,7 +41,7 @@ The project also serves as a learning platform for secure design principles when
 
 
 
-Disclaimer
+#Disclaimer
 
 This tool is built strictly for educational and ethical research purposes. Do not use it for any malicious activity. Always seek proper authorization before testing systems in any environment.
 
