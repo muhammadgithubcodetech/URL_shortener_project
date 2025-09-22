@@ -32,8 +32,25 @@ The project also serves as a learning platform for secure design principles when
 - Java 17 or higher
 - Maven
 
-### How to Run
+
+## How to Run
+
+### Prerequisites
+- Java 17 or higher
+- Maven 3.6+
+
+### Steps
 
 ```bash
-cd projectdsa
+# Clone the repo
+git clone https://github.com/yourusername/url-shortener-project.git
+cd url-shortener-project
+
+# Run the application
 mvn spring-boot:run
+
+Then visit http://localhost:8080 in your browser to interact with the tool.
+
+Disclaimer
+
+This tool is built strictly for educational and ethical research purposes. Do not use it for any malicious activity. Always seek proper authorization before testing systems in any environment.
