@@ -49,7 +49,7 @@ This tool is built strictly for educational and ethical research purposes. Do no
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/url-shortener-project.git
+git clone https://github.com/muhammadgithubcodetech/url-shortener-project.git
 cd url-shortener-project
 
 # Run the application
